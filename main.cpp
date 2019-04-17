@@ -131,5 +131,5 @@ int main()
     aux--;
     }
     pitagora(1000);
-
+ 
 }
