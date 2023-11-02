@@ -51,12 +51,12 @@ Este modelo proporciona una representación visual de la estructura de la base d
 - Iniciar sesión
 - Ver horarios disponibles de los equipos y los libros 
 
-### Página Principal del Cliente
+### Cliente
 - Ver horarios disponibles de los equipos y libros
 - Reservar equipos y libros disponibles
 - Ver equipos y libros que existen en la escuela
 
-### Página Principal del Administrador
+### Administrador
 - Ver reservas existentes de los equipos y libros
 - Ver los reportes de los equipos y libros
 - Ver equipos y libros solicitados (reservados)
