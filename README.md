@@ -1,5 +1,12 @@
 # Sistema de Gestión de Inventario
 
+## Table of Contents
+
+- [Descripción del Proyecto](#descripciondelproyecto)
+- [Características Clave](#caracteristicasclave)
+- [Diagrama de Software](#diagramadesoftware) 
+- [Modelo de Base de Datos](#modelodebasededatos)
+
 ## Descripción del Proyecto
 
 El "Sistema de Gestión de Inventario" es una iniciativa destinada a abordar los desafíos que enfrenta la Escuela Profesional de Ciencia de la Computación en la gestión eficiente de su inventario de recursos tecnológicos. La gestión de inventario tecnológico es un aspecto crucial para mejorar la calidad de la educación y garantizar que los recursos estén disponibles en el momento adecuado. Para resolver este problema, proponemos desarrollar un sistema que permita un control detallado de los recursos y facilite a los estudiantes reservar productos en línea.
