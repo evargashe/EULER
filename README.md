@@ -12,6 +12,9 @@ La gestión del inventario tecnológico en la escuela es compleja y puede llevar
 
 Proponemos desarrollar el "Sistema de Gestión de Inventario" para abordar los desafíos de la Escuela Profesional de Ciencia de la Computación. Este sistema permitirá un control detallado de recursos tecnológicos, permitiendo a los estudiantes reservar productos en línea con información detallada, incluyendo el estado de entrega y la carga de imágenes al devolver los productos. El sistema tendrá dos vistas: una para administradores y otra para usuarios, mejorando la eficiencia en la gestión de recursos tecnológicos y beneficiando a la comunidad educativa.
 
+## Diagrma de Software
+![Diagrama de Software](enlace-a-la-imagen-o-ruta-del-archivo)
+
 ## Funcionalidades
 
 ### Página Principal
