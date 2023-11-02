@@ -17,7 +17,7 @@ Proponemos desarrollar el "Sistema de Gestión de Inventario" para abordar los d
 ### Página Principal
 - Crear cuenta
 - Iniciar sesión
-- Ver horarios disponibles de los equipos
+- Ver horarios disponibles de los equiposy los libros 
 
 ### Página Principal del Cliente
 - Ver horarios disponibles de los equipos y libros
