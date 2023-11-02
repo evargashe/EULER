@@ -26,7 +26,7 @@ A continuación se presenta el modelo de base de datos que respalda el "Sistema 
 Este modelo proporciona una representación visual de la estructura de la base de datos del sistema.
 
 
-## Tecnologías Utilizadas
+## 🤖 Tecnologías Utilizadas
 
 Este proyecto utiliza una variedad de tecnologías y herramientas para su desarrollo:
 
