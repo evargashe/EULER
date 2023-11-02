@@ -52,6 +52,8 @@ Para instalar y ejecutar la aplicación en tu entorno local, sigue estos pasos:
    ```
 
    ```
+La aplicación estará disponible en tu navegador en http://localhost:3000.
+
 
 ## Contribuidores
 
