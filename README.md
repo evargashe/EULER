@@ -35,5 +35,7 @@ Proponemos desarrollar el "Sistema de Gestión de Inventario" para abordar los d
 Para instalar y ejecutar la aplicación en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio:
-   ```bash
+   ```
    git clone https://github.com/tu-usuario/sistema-inventario.git
+   ```
+
