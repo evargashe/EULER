@@ -1,16 +1,16 @@
 # Sistema de Gestión de Inventario
 
-## Introducción
+## Descripción del Proyecto
 
-La Escuela Profesional de Ciencia de la Computación necesita gestionar su inventario de recursos tecnológicos de manera eficiente. Para abordar este desafío y mejorar el entorno educativo, proponemos el proyecto del "Sistema de Gestión de Inventario."
+El "Sistema de Gestión de Inventario" es una iniciativa destinada a abordar los desafíos que enfrenta la Escuela Profesional de Ciencia de la Computación en la gestión eficiente de su inventario de recursos tecnológicos. La gestión de inventario tecnológico es un aspecto crucial para mejorar la calidad de la educación y garantizar que los recursos estén disponibles en el momento adecuado. Para resolver este problema, proponemos desarrollar un sistema que permita un control detallado de los recursos y facilite a los estudiantes reservar productos en línea.
 
-## Problema
+## Características Clave
 
-La gestión del inventario tecnológico en la escuela es compleja y puede llevar a pérdidas, retrasos y problemas de planificación. Es esencial garantizar que los recursos estén disponibles en el momento adecuado para mejorar la calidad de la educación.
-
-## Solución
-
-Proponemos desarrollar el "Sistema de Gestión de Inventario" para abordar los desafíos de la Escuela Profesional de Ciencia de la Computación. Este sistema permitirá un control detallado de recursos tecnológicos, permitiendo a los estudiantes reservar productos en línea con información detallada, incluyendo el estado de entrega y la carga de imágenes al devolver los productos. El sistema tendrá dos vistas: una para administradores y otra para usuarios, mejorando la eficiencia en la gestión de recursos tecnológicos y beneficiando a la comunidad educativa.
+- Creación de cuentas de usuario y autenticación.
+- Visualización de horarios disponibles de equipos y libros.
+- Reserva de equipos y libros disponibles.
+- Administración de reservas y generación de reportes.
+- Panel de administración para la gestión de recursos tecnológicos.
 
 ## Diagrama de Software
 ![Diagrama de Software](enlace-a-la-imagen-o-ruta-del-archivo)
