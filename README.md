@@ -38,4 +38,29 @@ Para instalar y ejecutar la aplicación en tu entorno local, sigue estos pasos:
    ```
    git clone https://github.com/tu-usuario/sistema-inventario.git
    ```
+2. Navega al directorio del proyecto:
+   ```
+   cd 
+   ```
+3. Instala las dependencias:
+   ```
+   npm i
+   # o
+   npm install
+   ```
+4. Inicia la aplicación:
+   ```
+
+   ```
+
+## Contribuidores
+
+Este proyecto ha sido posible gracias al esfuerzo y dedicación de un equipo de trabajo comprometido. A continuación, se enumeran los contribuidores que han desempeñado un papel significativo en el desarrollo y mejora de este sistema:
+
+- [Nombre del Contribuidor 1](enlace-al-perfil-de-GitHub)
+- [Nombre del Contribuidor 2](enlace-al-perfil-de-GitHub)
+
+
+
+
 
