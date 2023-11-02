@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Descripción del Proyecto](#descripciondelproyecto)
-- [Características Clave](#caracteristicasclave)
-- [Diagrama de Software](#diagramadesoftware) 
-- [Modelo de Base de Datos](#modelodebasededatos)
+- [Descripción del Proyecto](#descripcion-del-proyecto)
+- [Características Clave](#caracteristicas-clave)
+- [Diagrama de Software](#diagrama-de-software) 
+- [Modelo de Base de Datos](#modelo-de-base-de-datos)
 
 ## Descripción del Proyecto
 
