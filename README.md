@@ -34,7 +34,7 @@
 ## Table of Contents
 
 - [🚀 Descripción del Proyecto](#descripción-del-proyecto)
-- [🔑 Características Clave](#caracteristícas-clave)
+- [🔑 Características Clave](#características-clave)
 - [📊 Diagrama de Software](#diagrama-de-software) 
 - [🔍 Modelo de Base de Datos](#modelo-de-base-de-datos)
 - [💻 Tecnologías Utilizadas](#tecnologías-utilizadas)
