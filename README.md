@@ -1,4 +1,4 @@
-# Sistema de Gestión de Inventario
+<h1 align="center">👻 Sistema de Gestion de Inventario</h1>
 
 ## Table of Contents
 
