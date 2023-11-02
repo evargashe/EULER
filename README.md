@@ -1,5 +1,36 @@
 <h1 align="center">👻 Sistema de Gestion de Inventario</h1>
 
+<div align="center">
+  <img src="./public/readme/tech-logos/react.svg" width="55" alt="React" />
+  <img src="./public/readme/tech-logos/redux.svg" width="55" alt="Redux" />
+  <img
+    src="./public/readme/tech-logos/typescript.svg"
+    width="55"
+    alt="TypeScript"
+  />
+  <img
+    src="./public/readme/tech-logos/javascript.svg"
+    width="55"
+    alt="JavaScript"
+  />
+  <img src="./public/readme/tech-logos/sass.svg" width="55" alt="Sass" />
+  <img src="./public/readme/tech-logos/webpack.svg" width="55" alt="Webpack" />
+  <img src="./public/readme/tech-logos/gulp.svg" width="35" alt="gulp" />
+  <img src="./public/readme/tech-logos/cypress.svg" width="55" alt="Cypress" />
+  <img src="./public/readme/tech-logos/jest.svg" width="55" alt="Jest" />
+  <img src="./public/readme/tech-logos/eslint.svg" width="55" alt="Eslint" />
+  <img
+    src="./public/readme/tech-logos/prettier.svg"
+    width="55"
+    alt="Prettier"
+  />
+  <img
+    src="./public/readme/tech-logos/storybook.svg"
+    width="50"
+    alt="Storybook"
+  />
+</div>
+
 ## Table of Contents
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
