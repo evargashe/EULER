@@ -48,7 +48,7 @@
 
 El "Sistema de Gestión de Inventario" es una iniciativa destinada a abordar los desafíos que enfrenta la Escuela Profesional de Ciencia de la Computación en la gestión eficiente de su inventario de recursos tecnológicos. La gestión de inventario tecnológico es un aspecto crucial para mejorar la calidad de la educación y garantizar que los recursos estén disponibles en el momento adecuado. Para resolver este problema, proponemos desarrollar un sistema que permita un control detallado de los recursos y facilite a los estudiantes reservar productos en línea.
 
-## 🔑 Características Clave
+## 🔑 Características Clave <a name="características-clave"></a>
 
 - Creación de cuentas de usuario y autenticación.
 - Visualización de horarios disponibles de equipos y libros.
@@ -56,12 +56,12 @@ El "Sistema de Gestión de Inventario" es una iniciativa destinada a abordar los
 - Administración de reservas y generación de reportes.
 - Panel de administración para la gestión de recursos tecnológicos.
 
-## 📊 Diagrama de Software
+## 📊 Diagrama de Software <a name="diagrama-de-software"></a>
 ![Diagrama de Software](enlace-a-la-imagen-o-ruta-del-archivo)
 
 Este diagrama proporciona una visión general de la estructura del sistema.
 
-## 🔍 Modelo de Base de Datos
+## 🔍 Modelo de Base de Datos <a name="modelo-de-base-de-datos"></a>
 
 A continuación se presenta el modelo de base de datos que respalda el "Sistema de Gestión de Inventario." El modelo incluye tablas y campos clave para almacenar y gestionar la información de inventario.
 
@@ -70,7 +70,7 @@ A continuación se presenta el modelo de base de datos que respalda el "Sistema 
 Este modelo proporciona una representación visual de la estructura de la base de datos del sistema.
 
 
-## 💻 Tecnologías Utilizadas
+## 💻 Tecnologías Utilizadas <a name="tecnologías-utilizadas"></a>
 
 Este proyecto utiliza una variedad de tecnologías y herramientas para su desarrollo:
 
@@ -84,7 +84,7 @@ Este proyecto utiliza una variedad de tecnologías y herramientas para su desarr
 - React.js
 - Tailwind
 
-## 📦 Características de la Aplicación
+## 📦 Características de la Aplicación <a name="características-de-la-aplicación"></a>
 
 ### Backend
 
@@ -104,7 +104,7 @@ Este proyecto utiliza una variedad de tecnologías y herramientas para su desarr
 - Hermoso panel de interfaz de usuario.
 
 
-## 🛠️ Funcionalidades
+## 🛠️ Funcionalidades <a name="funcionalidades"></a>
 ### Página Principal
 - Crear cuenta
 - Iniciar sesión
@@ -121,7 +121,7 @@ Este proyecto utiliza una variedad de tecnologías y herramientas para su desarr
 - Ver equipos y libros solicitados (reservados)
 - Ver la devolución de los equipos y libros
 
-## 📋 Instalación y Uso
+## 📋 Instalación y Uso <a name="instalación-y-uso"></a>
 
 Para instalar y ejecutar la aplicación en tu entorno local, sigue estos pasos:
 
@@ -146,7 +146,7 @@ Para instalar y ejecutar la aplicación en tu entorno local, sigue estos pasos:
 La aplicación estará disponible en tu navegador en http://localhost:3000.
 
 
-## 👥 Contribuidores
+## 👥 Contribuidores <a name="contribuidores"></a>
 
 Este proyecto ha sido posible gracias al esfuerzo y dedicación de un equipo de trabajo comprometido. A continuación, se enumeran los contribuidores que han desempeñado un papel significativo en el desarrollo y mejora de este sistema:
 
