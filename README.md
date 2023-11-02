@@ -33,15 +33,15 @@
 
 ## Table of Contents
 
-- [🚀 Descripción del Proyecto](#descripción-del-proyecto)
-- [🔑 Características Clave](#características-clave)
-- [📊 Diagrama de Software](#diagrama-de-software) 
-- [🔍 Modelo de Base de Datos](#modelo-de-base-de-datos)
-- [💻 Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [📦 Características de la Aplicación](#características-de-la-aplicación)
-- [🛠️ Funcionalidades](#funcionalidades)
-- [📋 Instalación y Uso](#instalación-y-uso)
-- [👥 Contribuidores](#contribuidores)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Características Clave](#características-clave)
+- [Diagrama de Software](#diagrama-de-software) 
+- [Modelo de Base de Datos](#modelo-de-base-de-datos)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Características de la Aplicación](#características-de-la-aplicación)
+- [Funcionalidades](#funcionalidades)
+- [Instalación y Uso](#instalación-y-uso)
+- [Contribuidores](#contribuidores)
 
 
 ## 🚀 Descripción del Proyecto
