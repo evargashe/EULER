@@ -25,12 +25,31 @@ A continuación se presenta el modelo de base de datos que respalda el "Sistema 
 
 Este modelo proporciona una representación visual de la estructura de la base de datos del sistema.
 
-## Funcionalidades
+## Características de la Aplicación
 
+### Backend
+
+- El backend está construido con node.js, express.js Framework y MongoDb Database.
+- API genérica de Crud (Crear / Leer / Actualizar / Eliminar).
+- API de administración de administración (usuario).
+- Autenticación por token web JSON de JWT.
+
+### Interfaz
+
+- El Frontend está construido con React.js, Ant Design (Antd) y Redux, Redux-thunk.
+- Componente Crud Genérico (Módulo) (Crear / Leer / Actualizar / Eliminar).
+- Módulo de gestión de administración (usuario).
+- Inicio de sesión / cierre de sesión del componente de autenticación.
+- Ruta Privada y Ruta Pública.
+- Página no encontrada.
+- Hermoso panel de interfaz de usuario.
+
+
+## Funcionalidades
 ### Página Principal
 - Crear cuenta
 - Iniciar sesión
-- Ver horarios disponibles de los equiposy los libros 
+- Ver horarios disponibles de los equipos y los libros 
 
 ### Página Principal del Cliente
 - Ver horarios disponibles de los equipos y libros
