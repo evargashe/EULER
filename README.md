@@ -6,6 +6,12 @@
 - [Características Clave](#características-clave)
 - [Diagrama de Software](#diagrama-de-software) 
 - [Modelo de Base de Datos](#modelo-de-base-de-datos)
+- [Tecnologías Utilizadas](#tecnologás-utilizadas)
+- [Características de la Aplicacíon](#características-de-la-aplicacíon)
+- [Funcionalidades](#funcionalidades)
+- [Instalacíon y Uso](#instalacíon-y-uso)
+- [Contrubuidores](#contribuidores)
+
 
 ## Descripción del Proyecto
 
