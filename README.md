@@ -7,9 +7,9 @@
 - [Diagrama de Software](#diagrama-de-software) 
 - [Modelo de Base de Datos](#modelo-de-base-de-datos)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Características de la Aplicacíon](#características-de-la-aplicacíon)
+- [Características de la Aplicación](#características-de-la-aplicación)
 - [Funcionalidades](#funcionalidades)
-- [Instalación y Uso](#instalacíon-y-uso)
+- [Instalación y Uso](#instalación-y-uso)
 - [Contrubuidores](#contribuidores)
 
 
