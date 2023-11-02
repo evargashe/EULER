@@ -6,7 +6,7 @@
 - [Características Clave](#características-clave)
 - [Diagrama de Software](#diagrama-de-software) 
 - [Modelo de Base de Datos](#modelo-de-base-de-datos)
-- [Tecnologías Utilizadas](#tecnologás-utilizadas)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Características de la Aplicacíon](#características-de-la-aplicacíon)
 - [Funcionalidades](#funcionalidades)
 - [Instalación y Uso](#instalacíon-y-uso)
