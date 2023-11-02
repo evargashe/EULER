@@ -1,135 +1,39 @@
-#include <iostream>
-#include <math.h>
-using namespace std;
+# Sistema de Gestión de Inventario
 
-int multiplo(int n)
-{
-    int c=0;
-    for(int i=1;i<=n;i++)
-    {
-        if(i%3==0 || i%5==0)
-            c+=i;
-    }
-    return c;
-}
+## Introducción
 
-int multiplope(int i)
-{
-	while (i %  2 != 0 || i %  3 != 0 || i %  4 != 0 || i %  5 != 0 ||
-         i %  6 != 0 || i %  7 != 0 || i %  8 != 0 || i %  9 != 0 ||
-         i % 10 != 0 || i % 11 != 0 || i % 12 != 0 || i % 13 != 0 ||
-         i % 14 != 0 || i % 15 != 0 || i % 16 != 0 || i % 17 != 0 ||
-         i % 18 != 0 || i % 19 != 0 || i % 20 != 0 ){
-    i++;
-	}
-}
+La Escuela Profesional de Ciencia de la Computación necesita gestionar su inventario de recursos tecnológicos de manera eficiente. Para abordar este desafío y mejorar el entorno educativo, proponemos el proyecto del "Sistema de Gestión de Inventario."
 
-int sumacuadrado(int n)
-{
-	int s,aux=0;
-	for(int i=1;i<=n;i++)
-	{
-		s=pow(i,2);
-		aux+=s;
-	}
-	int s1,aux1=0;
-	for(int j=1;j<=n;j++)
-	{
-		aux1+=j;
-	}
-	s1=pow(aux1,2);
-	int resta;
-	resta=s1-aux;
-	return resta;
-}
-int invertir(int num)
- {
-    int resto,numinver=0;
-    if(num>=10)
-    {
-        while(num>0)
-        {
-            resto=num%10;
-            num/=10;
-            numinver*=10+resto;
-        }
-     }
-     return numinver;
+## Problema
 
-}
-int sumprimo(int tam)
-{
-    int s=0;
-    for(int i=1;i<tam;i++)
-    {
-        int contador=0;
-        for(int j=1;j<=i;j++){
-            if(i%j==0){
-               contador++;
-            }
-        }
-        if (contador==2)
-        {
-            s+=i;
-        }
-    }
-    return s;
-}
-int factorprimo(int n)
-{
-    for(int i=n;i>=0;i--)
-    {
-        int contador;
-        for(int j=1;j<=i;j++)
-        {
-            if(i%j==0)
-            {
-                contador++;
-            }
-        }
-        if(contador==2)
-        {
-            cout<<i;
-            break;
-        }
-    }
-}
-void  pitagora(int n)
-{
-    int aux=n;
-    int a,b,c;
-    for(int i=1;i<=n;i++)
-    {
-        c=i;
-        b=aux-c;
-        a=b-c;
-        if(a<b<c){
-            int suma=a,b,c;
-            int producto=1;
-            if(suma==1000){
-                producto*=a*b*c;
-                break;
-            }
-            cout<<producto<<" ";
-        }
-    }
-}
-int main()
-{
-	int n;
-	int aux=999;
-	while(aux<1000 && aux>900)
-    {
-        for(int i=999;i<1000 && i>900;i--){
-            n=aux*i;
-            if(n==invertir(n))
-            {
-                cout<<n<<endl;
-                break;
-            }
-        }
-    aux--;
-    }
-    pitagora(1000);
+La gestión del inventario tecnológico en la escuela es compleja y puede llevar a pérdidas, retrasos y problemas de planificación. Es esencial garantizar que los recursos estén disponibles en el momento adecuado para mejorar la calidad de la educación.
 
-}
+## Solución
+
+Proponemos desarrollar el "Sistema de Gestión de Inventario" para abordar los desafíos de la Escuela Profesional de Ciencia de la Computación. Este sistema permitirá un control detallado de recursos tecnológicos, permitiendo a los estudiantes reservar productos en línea con información detallada, incluyendo el estado de entrega y la carga de imágenes al devolver los productos. El sistema tendrá dos vistas: una para administradores y otra para usuarios, mejorando la eficiencia en la gestión de recursos tecnológicos y beneficiando a la comunidad educativa.
+
+## Funcionalidades
+
+### Página Principal
+- Crear cuenta
+- Iniciar sesión
+- Ver horarios disponibles de los equipos
+
+### Página Principal del Cliente
+- Ver horarios disponibles de los equipos y libros
+- Reservar equipos y libros disponibles
+- Ver equipos y libros que existen en la escuela
+
+### Página Principal del Administrador
+- Ver reservas existentes de los equipos y libros
+- Ver los reportes de los equipos y libros
+- Ver equipos y libros solicitados (reservados)
+- Ver la devolución de los equipos y libros
+
+## Instalación y Uso
+
+Para instalar y ejecutar la aplicación en tu entorno local, sigue estos pasos:
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/sistema-inventario.git
